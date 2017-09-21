@@ -1,0 +1,10 @@
+/home/ubuntu/hwapp/bin/Debug/netcoreapp2.0/hwapp.deps.json
+/home/ubuntu/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.json
+/home/ubuntu/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.dev.json
+/home/ubuntu/hwapp/bin/Debug/netcoreapp2.0/hwapp.dll
+/home/ubuntu/hwapp/bin/Debug/netcoreapp2.0/hwapp.pdb
+/home/ubuntu/hwapp/obj/Debug/netcoreapp2.0/hwapp.csproj.CoreCompileInputs.cache
+/home/ubuntu/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfoInputs.cache
+/home/ubuntu/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfo.cs
+/home/ubuntu/hwapp/obj/Debug/netcoreapp2.0/hwapp.dll
+/home/ubuntu/hwapp/obj/Debug/netcoreapp2.0/hwapp.pdb
